@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#fdc800;fill-opacity:0.878431;stroke:#000000;stroke-width:0.200171;paint-order:markers fill stroke"
+       id="rect1"
+       width="79.444252"
+       height="85.492584"
+       x="47.747715"
+       y="84.636154" />
+    <rect
+       style="fill:#002147;fill-opacity:0.878431;stroke:#000000;stroke-width:0.125206;paint-order:markers fill stroke"
+       id="rect2"
+       width="79.296722"
+       height="31.298485"
+       x="47.930168"
+       y="138.68523" />
+    <circle
+       style="fill:#002147;fill-opacity:0.878431;stroke:#000000;stroke-width:0.166219;paint-order:markers fill stroke"
+       id="path3"
+       cx="60.10714"
+       cy="96.419891"
+       r="4.9227347" />
+    <circle
+       style="fill:#002147;fill-opacity:0.878431;stroke:#000000;stroke-width:0.166219;paint-order:markers fill stroke"
+       id="path3-4"
+       cx="113.25826"
+       cy="96.257828"
+       r="4.9227347" />
+  </g>
+</svg>
